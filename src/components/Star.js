@@ -53,10 +53,6 @@ class Star extends Component {
     if (a >= 0) { x = (360 - x)  }
     if (b <= 0) { x = x - 180 }
 
-    console.log('a:' + a + ', b:' + b + ', c:' + c + ', deg:' + x)
-
-
-
     this.setState({
     style: {
       right: this.state.style.right,
