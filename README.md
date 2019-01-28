@@ -1,0 +1,1 @@
+This project is just for fun. My goal was to create a single React app what looks like a Star Wars movie first some minutes (https://www.youtube.com/watch?v=C587lNBQXAw). Without using any movie object. Only HTML, JS and CSS.
